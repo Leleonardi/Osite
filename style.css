@@ -2,3 +2,18 @@
     padding: 0;
     margin: 0;
 }
+header {
+    background-color: #D8BFD8;
+    height: 325px;
+}
+header ul {
+    background-color: hsl(6, 100%, 94%);
+    width: 100%;
+    height: 60px;
+    position: relative;
+    top: 265px;
+    text-align: center;
+    vertical-align: top;
+
+    
+}
