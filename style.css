@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* ASIDE */
+aside{
+    background-color: #E6E6FA;
+    width: 30%;
+    height: 700PX;
+    padding-left: 15px;
+    float: right;
+
+}
+/* section */
+section ul{
+    background-color: aqua;
+}
